@@ -1,0 +1,16 @@
+E:\pract\OrderInsertion\OrderInsertion\bin\Debug\net8.0-windows\OrderInsertion.exe
+E:\pract\OrderInsertion\OrderInsertion\bin\Debug\net8.0-windows\OrderInsertion.deps.json
+E:\pract\OrderInsertion\OrderInsertion\bin\Debug\net8.0-windows\OrderInsertion.runtimeconfig.json
+E:\pract\OrderInsertion\OrderInsertion\bin\Debug\net8.0-windows\OrderInsertion.dll
+E:\pract\OrderInsertion\OrderInsertion\bin\Debug\net8.0-windows\OrderInsertion.pdb
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.Form1.resources
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.csproj.GenerateResource.cache
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.GeneratedMSBuildEditorConfig.editorconfig
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.AssemblyInfoInputs.cache
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.AssemblyInfo.cs
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.csproj.CoreCompileInputs.cache
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.dll
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\refint\OrderInsertion.dll
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.pdb
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\OrderInsertion.genruntimeconfig.cache
+E:\pract\OrderInsertion\OrderInsertion\obj\Debug\net8.0-windows\ref\OrderInsertion.dll
